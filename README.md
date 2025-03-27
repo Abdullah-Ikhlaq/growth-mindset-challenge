@@ -1,4 +1,4 @@
-# Data Sweeper 📀
+# Data Sweeper 💿
 
 ## 📌 Overview
 
